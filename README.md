@@ -1,2 +1,2 @@
 # mypro
-my first project
+my first website
